@@ -1,0 +1,13 @@
+{
+  "title": "Filter Businesses Without Website",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "datasetId": {
+      "type": "string",
+      "title": "Dataset ID of Google Maps Scraper",
+      "description": "The ID of the dataset from Google Maps Scraper that contains the business data"
+    }
+  },
+  "required": ["datasetId"]
+}

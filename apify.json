@@ -1,0 +1,8 @@
+{
+  "name": "filter-no-website-actor",
+  "version": "1.0",
+  "buildTag": "latest",
+  "env": null,
+  "template": "javascript",
+  "actorSpecification": 1
+}
